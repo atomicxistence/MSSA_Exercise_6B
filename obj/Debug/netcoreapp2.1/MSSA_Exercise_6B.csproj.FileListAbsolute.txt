@@ -1,0 +1,11 @@
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/bin/Debug/netcoreapp2.1/MSSA_Exercise_6B.deps.json
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/bin/Debug/netcoreapp2.1/MSSA_Exercise_6B.runtimeconfig.json
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/bin/Debug/netcoreapp2.1/MSSA_Exercise_6B.runtimeconfig.dev.json
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/bin/Debug/netcoreapp2.1/MSSA_Exercise_6B.dll
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/bin/Debug/netcoreapp2.1/MSSA_Exercise_6B.pdb
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.csprojAssemblyReference.cache
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.csproj.CoreCompileInputs.cache
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.AssemblyInfoInputs.cache
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.AssemblyInfo.cs
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.dll
+/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/obj/Debug/netcoreapp2.1/MSSA_Exercise_6B.pdb

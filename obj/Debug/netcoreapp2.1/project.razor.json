@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/jeff/Projects/MSSA/Exercises/MSSA_Exercise_6B/MSSA_Exercise_6B.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
