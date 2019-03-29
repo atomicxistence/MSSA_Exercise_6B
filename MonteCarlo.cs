@@ -6,8 +6,8 @@ namespace EstimatePi
 	{
 		public double Estimate(int iterations)
 		{
-			var coords = PoplulateTestCollection(iterations);
-			var overlapTotal = OverlapCircle(coords);
+			Coord[] coords = PoplulateTestCollection(iterations);
+			int overlapTotal = OverlapCircle(coords);
 
 			return EstimatedPi(overlapTotal, coords.Length);
 		}

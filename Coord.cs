@@ -1,3 +1,5 @@
+using System;
+
 namespace EstimatePi
 {
 	struct Coord
@@ -10,6 +12,12 @@ namespace EstimatePi
 		{
 			X = x;
 			Y = y;
+		}
+
+		public Coord(Random randomNumberGenerator)
+		{
+			X = randomNumberGenerator.NextDouble();
+			Y = randomNumberGenerator.NextDouble();
 		}
 	}
 }
